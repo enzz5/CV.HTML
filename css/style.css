@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    margin: 50px 500px;
+    background-image: url('../img/coding-wallpapers-on-wallpaperdog.png');
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+p{
+   font-size: small;
+}
+h1{
+    background-color: rgba(255, 113, 113, 0.507);
+    color: red;
+    padding-left: 185px;
+    border-color: red;
+    border-style: ridge ;
+    border: 5px 5px;
+}
+
+h2{
+    color: red;
+    background-color: rgba(255, 113, 113, 0.507);
+    border-style: ridge;
+    border-color: red;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    padding: 5px 5px;
+}
+.subtitulo{
+    font-size: medium;
+}
+
+ul li{
+    list-style-type: square
+    ;
+}
