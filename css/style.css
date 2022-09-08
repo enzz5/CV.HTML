@@ -33,6 +33,14 @@ h2{
 }
 
 ul li{
-    list-style-type: square
-    ;
+    list-style-type: square;
 }
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+    
